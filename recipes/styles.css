@@ -1,0 +1,23 @@
+.title {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+}
+
+#lasagna {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+}
+
+h2, h3 {
+    border: solid;
+    max-width: fit-content;
+    margin-inline: auto;
+    padding: 5px;
+}
+
+div {
+    width: 400px;
+    margin: 0 auto;
+}
